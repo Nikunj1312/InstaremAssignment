@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assignment" duration-ms="22466" started-at="2019-02-08T10:36:56Z" finished-at="2019-02-08T10:37:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22466" started-at="2019-02-08T10:36:56Z" finished-at="2019-02-08T10:37:18Z">
+      <class name="swiftcodesTest.BankDetails">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:swiftcodesTest.BankDetails@7dc7cbad]" name="beforeClass" is-config="true" duration-ms="6619" started-at="2019-02-08T16:06:56Z" finished-at="2019-02-08T16:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="getBankDetails()[pri:0, instance:swiftcodesTest.BankDetails@7dc7cbad]" name="getBankDetails" duration-ms="15830" started-at="2019-02-08T16:07:02Z" finished-at="2019-02-08T16:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBankDetails -->
+      </class> <!-- swiftcodesTest.BankDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Assignment -->
+</testng-results>
